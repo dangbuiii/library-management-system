@@ -1,6 +1,6 @@
 <?php
 
-define("MYSQL_HOSTNAME", "XXXX");
-define("MYSQL_DATABASE", "XXXX");
-define("MYSQL_USERNAME", "XXXX");
-define("MYSQL_PASSWORD", "XXXX");
+define("MYSQL_HOSTNAME", "host");
+define("MYSQL_DATABASE", "my_db");
+define("MYSQL_USERNAME", "dangbui");
+define("MYSQL_PASSWORD", "123456");
